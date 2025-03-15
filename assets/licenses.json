@@ -1,0 +1,362 @@
+{
+    "@craftzdog/react-native-buffer@6.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/craftzdog/react-native-buffer",
+        "licenseUrl": "https://github.com/craftzdog/react-native-buffer/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@expo/vector-icons@14.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/vector-icons",
+        "licenseUrl": "https://github.com/expo/vector-icons/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@fugood/react-native-audio-pcm-stream@1.1.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mybigday/react-native-audio-pcm-stream",
+        "licenseUrl": "https://github.com/mybigday/react-native-audio-pcm-stream/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@gorhom/bottom-sheet@5.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/gorhom/react-native-bottom-sheet",
+        "licenseUrl": "https://github.com/gorhom/react-native-bottom-sheet/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@react-native-community/netinfo@11.4.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-netinfo/react-native-netinfo",
+        "licenseUrl": "https://github.com/react-native-netinfo/react-native-netinfo/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@react-navigation/bottom-tabs@7.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@react-navigation/drawer@7.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@react-navigation/native@7.0.15": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@shopify/flash-list@1.7.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Shopify/flash-list",
+        "licenseUrl": "https://github.com/Shopify/flash-list/raw/master/LICENSE.md",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@shopify/react-native-skia@1.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Shopify/react-native-skia",
+        "licenseUrl": "https://github.com/Shopify/react-native-skia/raw/master/LICENSE.md",
+        "parents": "poc-archiver-expo-web"
+    },
+    "@uidotdev/usehooks@2.4.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/uidotdev/usehooks",
+        "licenseUrl": "https://github.com/uidotdev/usehooks/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "browserify-zlib@0.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/devongovett/browserify-zlib",
+        "licenseUrl": "https://github.com/devongovett/browserify-zlib/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "date-fns@4.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/date-fns/date-fns",
+        "licenseUrl": "https://github.com/date-fns/date-fns/raw/master/LICENSE.md",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-application@6.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-asset@11.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-blur@14.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-clipboard@7.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-constants@17.0.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-dev-client@5.0.14": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-device@7.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-document-picker@13.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-file-system@18.0.11": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-font@13.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-haptics@14.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-image-picker@16.0.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-linking@7.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-router@4.0.18": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-splash-screen@0.29.22": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-status-bar@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-symbols@0.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-system-ui@4.0.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-updates@0.27.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo-web-browser@14.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "expo@52.0.39": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "poc-archiver-expo-web"
+    },
+    "mobx-react-lite@4.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mobxjs/mobx",
+        "licenseUrl": "https://github.com/mobxjs/mobx/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "mobx@6.13.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mobxjs/mobx",
+        "licenseUrl": "https://github.com/mobxjs/mobx/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-art@19.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-dom@18.3.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-hook-form@7.54.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-hook-form/react-hook-form",
+        "licenseUrl": "https://github.com/react-hook-form/react-hook-form/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-dropdown-select-list@2.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/danish1658/react-native-dropdown-select-list",
+        "licenseUrl": "https://github.com/danish1658/react-native-dropdown-select-list/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-element-dropdown@2.12.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/hoaphantn7604/react-native-element-dropdown",
+        "licenseUrl": "https://github.com/hoaphantn7604/react-native-element-dropdown/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-fs@2.20.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/itinance/react-native-fs",
+        "licenseUrl": "https://github.com/itinance/react-native-fs/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-gesture-handler@2.20.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/software-mansion/react-native-gesture-handler",
+        "licenseUrl": "https://github.com/software-mansion/react-native-gesture-handler/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-mmkv@3.2.0": {
+        "licenses": "(MIT AND BSD-3-Clause)",
+        "repository": "https://github.com/mrousavy/react-native-mmkv",
+        "licenseUrl": "https://github.com/mrousavy/react-native-mmkv",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-network-logger@1.17.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/alexbrazier/react-native-network-logger",
+        "licenseUrl": "https://github.com/alexbrazier/react-native-network-logger/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-paper@5.13.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/callstack/react-native-paper",
+        "licenseUrl": "https://github.com/callstack/react-native-paper/raw/master/LICENSE.md",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-reanimated@3.16.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/software-mansion/react-native-reanimated",
+        "licenseUrl": "https://github.com/software-mansion/react-native-reanimated/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-safe-area-context@5.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/th3rdwave/react-native-safe-area-context",
+        "licenseUrl": "https://github.com/th3rdwave/react-native-safe-area-context/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-screens@4.4.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/software-mansion/react-native-screens",
+        "licenseUrl": "https://github.com/software-mansion/react-native-screens/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-skia-offscreencanvas@0.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mybigday/react-native-skia-offscreencanvas",
+        "licenseUrl": "https://github.com/mybigday/react-native-skia-offscreencanvas",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-svg@15.8.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-community/react-native-svg",
+        "licenseUrl": "https://github.com/react-native-community/react-native-svg/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-vector-icons@10.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/oblador/react-native-vector-icons",
+        "licenseUrl": "https://github.com/oblador/react-native-vector-icons/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-web@0.19.13": {
+        "licenses": "MIT",
+        "repository": "https://github.com/necolas/react-native-web",
+        "licenseUrl": "https://github.com/necolas/react-native-web/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native-webview@13.12.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-webview/react-native-webview",
+        "licenseUrl": "https://github.com/react-native-webview/react-native-webview/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react-native@0.76.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react-native",
+        "licenseUrl": "https://github.com/facebook/react-native/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "react@18.3.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "sonner-native@0.17.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/gunnartorfis/sonner-native",
+        "licenseUrl": "https://github.com/gunnartorfis/sonner-native/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "stream-browserify@3.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/browserify/stream-browserify",
+        "licenseUrl": "https://github.com/browserify/stream-browserify/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    },
+    "text-encoding-polyfill@0.6.7": {
+        "licenses": "Unlicense",
+        "repository": "https://github.com/inexorabletash/text-encoding",
+        "licenseUrl": "https://github.com/inexorabletash/text-encoding/raw/master/LICENSE.md",
+        "parents": "poc-archiver-expo-web"
+    },
+    "xregexp@5.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/slevithan/xregexp",
+        "licenseUrl": "https://github.com/slevithan/xregexp/raw/master/LICENSE",
+        "parents": "poc-archiver-expo-web"
+    }
+}
