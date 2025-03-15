@@ -1,20 +1,8 @@
 {
-    "@craftzdog/react-native-buffer@6.0.5": {
-        "licenses": "MIT",
-        "repository": "https://github.com/craftzdog/react-native-buffer",
-        "licenseUrl": "https://github.com/craftzdog/react-native-buffer/raw/master/LICENSE",
-        "parents": "poc-archiver-expo-web"
-    },
     "@expo/vector-icons@14.0.4": {
         "licenses": "MIT",
         "repository": "https://github.com/expo/vector-icons",
         "licenseUrl": "https://github.com/expo/vector-icons/raw/master/LICENSE",
-        "parents": "poc-archiver-expo-web"
-    },
-    "@fugood/react-native-audio-pcm-stream@1.1.4": {
-        "licenses": "MIT",
-        "repository": "https://github.com/mybigday/react-native-audio-pcm-stream",
-        "licenseUrl": "https://github.com/mybigday/react-native-audio-pcm-stream/raw/master/LICENSE",
         "parents": "poc-archiver-expo-web"
     },
     "@gorhom/bottom-sheet@5.1.2": {
@@ -63,12 +51,6 @@
         "licenses": "MIT",
         "repository": "https://github.com/uidotdev/usehooks",
         "licenseUrl": "https://github.com/uidotdev/usehooks/raw/master/LICENSE",
-        "parents": "poc-archiver-expo-web"
-    },
-    "browserify-zlib@0.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/devongovett/browserify-zlib",
-        "licenseUrl": "https://github.com/devongovett/browserify-zlib/raw/master/LICENSE",
         "parents": "poc-archiver-expo-web"
     },
     "date-fns@4.1.0": {
@@ -155,7 +137,7 @@
         "licenseUrl": "https://github.com/expo/expo",
         "parents": "poc-archiver-expo-web"
     },
-    "expo-router@4.0.18": {
+    "expo-router@4.0.19": {
         "licenses": "MIT",
         "repository": "https://github.com/expo/expo",
         "licenseUrl": "https://github.com/expo/expo",
@@ -293,12 +275,6 @@
         "licenseUrl": "https://github.com/software-mansion/react-native-screens/raw/master/LICENSE",
         "parents": "poc-archiver-expo-web"
     },
-    "react-native-skia-offscreencanvas@0.1.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/mybigday/react-native-skia-offscreencanvas",
-        "licenseUrl": "https://github.com/mybigday/react-native-skia-offscreencanvas",
-        "parents": "poc-archiver-expo-web"
-    },
     "react-native-svg@15.8.0": {
         "licenses": "MIT",
         "repository": "https://github.com/react-native-community/react-native-svg",
@@ -339,24 +315,6 @@
         "licenses": "MIT",
         "repository": "https://github.com/gunnartorfis/sonner-native",
         "licenseUrl": "https://github.com/gunnartorfis/sonner-native/raw/master/LICENSE",
-        "parents": "poc-archiver-expo-web"
-    },
-    "stream-browserify@3.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/browserify/stream-browserify",
-        "licenseUrl": "https://github.com/browserify/stream-browserify/raw/master/LICENSE",
-        "parents": "poc-archiver-expo-web"
-    },
-    "text-encoding-polyfill@0.6.7": {
-        "licenses": "Unlicense",
-        "repository": "https://github.com/inexorabletash/text-encoding",
-        "licenseUrl": "https://github.com/inexorabletash/text-encoding/raw/master/LICENSE.md",
-        "parents": "poc-archiver-expo-web"
-    },
-    "xregexp@5.1.2": {
-        "licenses": "MIT",
-        "repository": "https://github.com/slevithan/xregexp",
-        "licenseUrl": "https://github.com/slevithan/xregexp/raw/master/LICENSE",
         "parents": "poc-archiver-expo-web"
     }
 }
